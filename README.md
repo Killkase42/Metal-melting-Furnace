@@ -26,6 +26,7 @@ Disadvantages
 - Torch was cumbersome to light and position
 - Shape of gas inlet led to inefficient burning
 - Position of gas inlet led to inefficient gas flow and chamber heating
+- Chamber insulation and cover were not optimised and degraded over time
 
 # Third Prototype
 The third protoype was a propane/pressurised air torch with an improved insulated chamber.
