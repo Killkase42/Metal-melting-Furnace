@@ -8,6 +8,7 @@ The first prototype was a forced-air wood-burning furnace made in the ground. It
 Advantages
 - Able to melt aluminum
 - Heated up crucible quickly
+
 Disadvantages
 - Too much smoke and ash were produced
 - Opening the cover, stopping the blower, and taking out the crucible to refill the wood was inefficient and dangerous
@@ -20,6 +21,7 @@ The second prototype was a propane torch with its own insulated chamber.
 
 Advantages
 - Refinement and casting of aluminum was faster and safer
+
 Disadvantages
 - Torch was cumbersome to light and position
 - Shape of gas inlet led to inefficient burning
