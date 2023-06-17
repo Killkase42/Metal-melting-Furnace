@@ -28,7 +28,7 @@ Disadvantages
 # Second Protoype
 The second prototype was a propane torch with its own insulated chamber. These ideas were inspired by many commercial smelters. 
 
-The material of the chamber, instead of fiberglass or mineral wool, was a silicate omprising thirty-percent clay and the remaining crushed up glass bottles was used (measured by volume). This was done due to easy sourcing of the materials. A steel bucket was used to contain the insulating mixture. Standard bricks were used to cover the top when in use. The torch was made of plumbing hardware, teflon tape, and a thirty-PSI regulator.
+The material of the chamber, instead of fiberglass or mineral wool, was a silicate comprising thirty-percent clay and the remaining crushed up glass bottles was used (measured by volume). This was done due to easy sourcing of the materials. A steel bucket was used to contain the insulating mixture. Standard bricks were used to cover the top when in use. The torch was made of plumbing hardware, teflon tape, and a thirty-PSI regulator.
 (drawing/picture)
 
 
