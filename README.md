@@ -1,6 +1,6 @@
 # Metal-Smelter
 A custom-designed enclosure and propane torch used to melt various metals.
-# Initial-Planningt
+# Initial-Planning
 The original goal of this project was to devise an easy method of casting aluminum to build other projects. With a melting point around seven hundred-degrees celcius, it was determined early that a standard fire or low-pressure torch would not suffice for this purpose. Therefore, it was known that a pressurised fuel or oxygen had to be supplied. Additionally, some sort of insulated container was needed to contain the immense heat necessary. 
 
 An additional requirement of this project was to procure all materials used from as basic a form as practical. This was done to reduce the project's cost in addition to provide knowledge of material properties and working techniques.
