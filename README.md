@@ -23,6 +23,7 @@ Disadvantages
 - Cover was not stable
 - Crucible was not durable or stable
 - Smelter was not mobile
+- The surrounding earth was a decent insulator, but had a very high mass and absorbed too much heat
 - Convinced neighbors that the fires of hell had erupted from next-door backyard
 
 # Second Protoype
@@ -42,6 +43,7 @@ Disadvantages
 - Shape of gas inlet led to inefficient burning
 - Position of gas inlet led to inefficient gas flow and chamber heating
 - Chamber insulation and cover were not optimised and degraded over time
+- Insulation was lighter and thinner than first prototype, but still heavy
 
 # Third Prototype
 The third protoype was a propane/pressurised air torch with an improved insulated chamber.
