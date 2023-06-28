@@ -46,5 +46,5 @@ Disadvantages
 - Insulation was lighter and thinner than first prototype, but still heavy
 
 # Third Prototype
-The third protoype was a propane/pressurised air torch with an improved insulated chamber.
+The third protoype was an improved propane/air torch and insulated chamber.
 
