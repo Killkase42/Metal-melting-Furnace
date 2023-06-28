@@ -10,7 +10,7 @@ The first prototype was a forced-air charcoal-burning furnace made in the ground
 As per the following drawing, the plan comprised an insulating earthen cavity, a fire fed by wood or charcoal, and a blower that supplied the fuel with sufficient oxygen to burn as hot as possible.
 (first drawing)
 
-This design did fufill its purpose, albeit just barely. The aluminum produced was not of great volume or quality (mixed in with slag) and the proces of use was very awkward.
+This design did fufill its purpose, albeit just barely. The aluminum produced was not of great volume or quality (mixed in with slag) and the process of use was very awkward.
 
 Advantages
 - Able to melt aluminum
