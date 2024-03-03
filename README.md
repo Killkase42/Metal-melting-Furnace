@@ -48,6 +48,11 @@ Disadvantages
 - Insulation was lighter and thinner than first prototype, but still heavy
 
 <figure>
+    <figcaption>Prototype Two Assembly Drawing</figcaption>
+    <img src="Images/furnaceSecondPrototypeAssebly.jpg" width="618" height="400">
+</figure>
+
+<figure>
     <figcaption>Prototype Two</figcaption>
     <img src="Images/prototypeTwo.jpg" width="400" height="400">
 </figure>
