@@ -1,16 +1,13 @@
 # Metal-melting Furnace
-A custom-designed enclosure and propane torch used to melt various metals.
+A custom-designed and produced enclosure and propane torch used to melt various metals.
 # Initial-Planning
-The original goal of this project was to devise an easy method of casting aluminum to build other projects. With a melting point around seven hundred-degrees celcius, it was determined early that a standard fire or low-pressure torch would not suffice for this purpose. Therefore, it was known that a pressurised fuel or oxygen had to be supplied. Additionally, some sort of insulated container was needed to trap the immense heat necessary. 
+The original goal of this project was to devise an easy method of casting aluminum to build other projects. With a melting point around 700 degrees, a standard fire or low-pressure torch would not suffice for this purpose. Therefore, a pressurised fuel or oxygen had to be supplied. Additionally, some sort of insulated container was needed to trap the immense heat necessary. 
 
-An additional requirement of this project was to procure all materials used from as basic a form as practical. This was done to reduce the project's cost in addition to provide knowledge of material properties and working techniques.
+An additional requirement of this project was to use as basic materials as practical. This was done to reduce the project's cost in addition to provide knowledge of material properties and working techniques.
 # First Prototype
-The first prototype was a forced-air charcoal-burning furnace made in the ground. It had to be destroyed before this log was written, so only drawings are available. The reason such a setup was considered was for its ease of construction; it was a proof-of-concept.
+The first prototype was a forced-air charcoal-burning furnace made in the ground. It had to be destroyed before this log was written, so only drawings are available. The reason such a setup was considered was for its ease of construction; it was a proof-of-concept. The plan comprised an insulating earthen cavity, a fire fed by wood or charcoal, and a blower that supplied the fuel with sufficient oxygen to burn as hot as possible.
 
-As per the following drawing, the plan comprised an insulating earthen cavity, a fire fed by wood or charcoal, and a blower that supplied the fuel with sufficient oxygen to burn as hot as possible.
-(first drawing)
-
-This design did fufill its purpose, albeit just barely. The aluminum produced was not of great volume or quality (mixed in with slag) and the process of use was very awkward.
+[first drawing]
 
 Advantages
 - Able to melt aluminum
@@ -18,6 +15,7 @@ Advantages
 
 Disadvantages
 - Too much smoke and ash were produced
+- Produced poor quantity and quality of alumunim
 - Opening the cover, stopping the blower, and taking out the crucible to refill the charcoal was inefficient and dangerous
 - Inability to quickly extinguish and light fire made refilling and slag removal dangerous
 - Cover was not stable
@@ -32,9 +30,9 @@ Disadvantages
 </figure>
 
 # Second Protoype
-The second prototype was a propane torch with its own insulated chamber. These ideas were inspired by many commercial smelters. 
+The second prototype comprised a propane torch with its own insulated chamber. These ideas were inspired by small commercial metal furnaces, but made more accessible with basic materials. 
 
-The insulating material of the chamber, instead of fiberglass or mineral wool, was a silicate comprising thirty-percent clay and the remaining crushed up glass bottles was used (measured by volume). This was done due to easy sourcing of the materials. A steel bucket was used to contain the insulating mixture. Standard bricks were used to cover the top when in use. The torch was made of plumbing hardware, teflon tape, and a thirty-PSI regulator.
+The insulating material of the chamber was a silicate comprising 30% clay (dug from the ground and refined via decanting) and the remainder crushed up glass bottles was used (measured by volume). This was done due to easy sourcing of the materials. A steel bucket was used to contain the insulating mixture. Standard bricks were used to cover the top when in use. The torch was made of plumbing hardware, teflon tape, and a 30 PSI regulator.
 
 Advantages
 - Refinement and casting of aluminum was faster and safer
@@ -42,8 +40,8 @@ Advantages
 
 Disadvantages
 - Torch was cumbersome to light and position
-- Shape of gas inlet led to inefficient burning
-- Position of gas inlet led to inefficient gas flow and chamber heating
+- Shape of gas inlet led to inefficient burning (adapter pipe with differing diameter)
+- Position of gas inlet led to inefficient gas flow and chamber heating (facing straight towards crucible rather than to the side)
 - Chamber insulation and cover were not optimised and degraded over time
 - Insulation was lighter and thinner than first prototype, but still heavy
 
@@ -68,29 +66,53 @@ Disadvantages
 </figure>
 
 <figure>
-    <figcaption>Aluminum Ingots Produced by Prototype Two</figcaption>
+    <figcaption>Aluminum Ingots Produced by Prototype Two, Each 70mm</figcaption>
     <img src="Images/prototypeTwoIngots.jpg" width="400" height="400">
 </figure>
 
-# Third Prototype
-The third protoype was an improved propane torch and insulated chamber.
+# Final Version
+The final version comprised an improved propane torch and insulated chamber. It was very similar to small commercial furnaces. The final version was adequate for the original purpose of the project, producing metal parts for other projects.
 
-The silicate lining used in prototype two was removed from the steel bucket and replaced with a one-inch thick layer of mineral wool. The wool was coated in a refactory mortar to prevent fibres from flying off. An insulating lid was made in a similar manner from steel sheet metal and hardware. A short, straight pipe was placed alongside the inner wall of the furnace. The same torch developed for prototype two was used.
+The silicate lining used in prototype two was removed from the steel bucket and replaced with a one-inch thick layer of mineral wool. The wool was coated in a refactory mortar to prevent fibres from flying off. An insulating lid was made in a similar manner from scrap steel sheet metal and spare hardware. A short 2-inch diameter pipe was placed alongside the inner wall of the furnace to allow the flame to flow around the crucible more effectively. The same torch developed for prototype two was used.
 
 Advantages
-- Able to melt aluminum, copper, brass, bronze, and others with a melting temperature around one-thousand degrees
+- Able to melt aluminum, copper, brass, bronze, and others with a maiximum temperature around one-thousand degrees
+- Able to heat steel to forging temperature
 - Due to the improved insulation and torch, the furnace was much more effecient than previous versions
-- Became hot much faster than previous versions
+- Became hot and cooled off much faster than previous versions
 - Much lighter than previous verions
 
 Disadvantages
 - Refactory mortar lining was too thin in some spots and caved in slightly
 - Gaps between lid and body led to a loss of effeciency
-- Furnace took an excessive amount of time to heat contents to approximately one-thousand degrees
+- Furnace took an excessive amount of time to heat contents to its maximum temperature
 - Torch was still cumbersome to light and position
-- Lack of proper handle made the lid awkward and dangerous to remove
+- Lack of proper handle made the lid awkward to remove
 
 <figure>
-    <figcaption>Copper Ingot Produced by Prototype Three</figcaption>
+    <figcaption>Final Version</figcaption>
+    <img src="Images/20240506_135310.jpg" width="400" height="400">
+</figure>
+
+<figure>
+    <figcaption>Final Version in Action</figcaption>
+    <img src="Images/20240506_140118.jpg" width="400" height="400">
+</figure>
+
+<figure>
+    <figcaption>Forged Steel Ingot Mold Produced by Final Version</figcaption>
+    <img src="Images/20240506_135858.jpg" width="400" height="400">
+</figure>
+
+<figure>
+    <figcaption>Aluminum Ingot Produced by Final Version, 160mm</figcaption>
+    <img src="Images/20240506_145645.jpg" width="400" height="400">
+</figure>
+
+<figure>
+    <figcaption>Copper Ingot Produced by Final Version, 60mm</figcaption>
     <img src="Images/p2CuIngot.jpg" width="400" height="400">
 </figure>
+
+# Conclusions
+This was a very practical project that has unlocked the ability to create custom metal parts for future projects. It was ultimately cheaper than an equivalent commercial product but performs just as well. It could be improved in many ways, mainly in regards to durability and ease of use. However useful the result may be, however, it is usually more costly in the fullness of time to produce every part of a project from scratch. Nonetheless, the project taught mold casting, sand casting, forging, and metalworking.
