@@ -7,8 +7,6 @@ An additional requirement of this project was to use as basic materials as pract
 # First Prototype
 The first prototype was a forced-air charcoal-burning furnace made in the ground. It had to be destroyed before this log was written, so only drawings are available. The reason such a setup was considered was for its ease of construction; it was a proof-of-concept. The plan comprised an insulating earthen cavity, a fire fed by wood or charcoal, and a blower that supplied the fuel with sufficient oxygen to burn as hot as possible.
 
-[first drawing]
-
 Advantages
 - Able to melt aluminum
 - Heated up crucible quickly
@@ -23,6 +21,11 @@ Disadvantages
 - Smelter was not mobile
 - The surrounding earth was a decent insulator, but had a very high mass and absorbed too much heat
 - Convinced neighbors that the fires of hell had erupted from next-door backyard
+
+<figure>
+    <figcaption>Prototype One Assembly Drawing</figcaption>
+    <img src="Images/furnacePrototypeI.jpg" width="618" height="400">
+</figure>
 
 <figure>
     <figcaption>Crushed Cans Used for Aluminum</figcaption>
