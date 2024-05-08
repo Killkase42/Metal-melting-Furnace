@@ -1,6 +1,6 @@
 # Metal-melting Furnace
 A custom-designed and manufactured enclosure and propane torch used to melt various metals.
-# Initial-Planning
+# Initial Planning
 The original goal of this project was to devise an easy method of casting aluminum to build other projects. With a melting point around 700 degrees, a standard fire or low-pressure torch would not suffice for this purpose. Therefore, a pressurised fuel or oxygen had to be supplied. Additionally, some sort of insulated container was needed to trap the immense heat necessary. Methods of casting would also have to be explored.
 
 An additional requirement of this project was to use as basic materials as practical. This was done to reduce the project's cost in addition to provide knowledge of material properties and working techniques.
