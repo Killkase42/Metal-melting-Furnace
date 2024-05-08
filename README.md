@@ -1,5 +1,5 @@
 # Metal-melting Furnace
-A custom-designed and produced enclosure and propane torch used to melt various metals.
+A custom-designed and manufactured enclosure and propane torch used to melt various metals.
 # Initial-Planning
 The original goal of this project was to devise an easy method of casting aluminum to build other projects. With a melting point around 700 degrees, a standard fire or low-pressure torch would not suffice for this purpose. Therefore, a pressurised fuel or oxygen had to be supplied. Additionally, some sort of insulated container was needed to trap the immense heat necessary. 
 
@@ -91,6 +91,11 @@ Disadvantages
 - Furnace took an excessive amount of time to heat contents to its maximum temperature
 - Torch was still cumbersome to light and position
 - Lack of proper handle made the lid awkward to remove
+
+<figure>
+    <figcaption>Final Version Assembly Drawing</figcaption>
+    <img src="Images/furnaceFinalVersion.jpg" width="618" height="400">
+</figure>
 
 <figure>
     <figcaption>Final Version</figcaption>
