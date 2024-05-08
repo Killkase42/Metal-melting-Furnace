@@ -5,7 +5,7 @@ The original goal of this project was to devise an easy method of casting alumin
 
 An additional requirement of this project was to use as basic materials as practical. This was done to reduce the project's cost in addition to provide knowledge of material properties and working techniques.
 # First Prototype
-The first prototype was a forced-air charcoal-burning furnace made in the ground. It had to be destroyed before this log was written, so only drawings are available. The reason such a setup was considered was for its ease of construction; it was a proof-of-concept. The plan comprised an insulating earthen cavity, a fire fed by wood or charcoal, and a blower that supplied the fuel with sufficient oxygen to burn as hot as possible.
+The first prototype was a forced-air charcoal-burning furnace made in the ground. It had to be destroyed before this log was written, so only drawings are available. The reason such a setup was considered was for its ease of construction; it was a proof-of-concept. The plan comprised an insulating earthen cavity, a fire fed by wood or charcoal that lay around the brick that held the crucible, and a hole for a blower (shop vac in reverse) that supplied the fuel with sufficient oxygen to burn as hot as possible.
 
 Advantages
 - Able to melt aluminum
@@ -17,7 +17,7 @@ Disadvantages
 - Opening the cover, stopping the blower, and taking out the crucible to refill the charcoal was inefficient and dangerous
 - Inability to quickly extinguish and light fire made refilling and slag removal dangerous
 - Cover was not stable
-- Crucible was not durable or stable
+- Crucible was not durable or stable (steel can crucible was originally used)
 - Smelter was not mobile
 - The surrounding earth was a decent insulator, but had a very high mass and absorbed too much heat
 - Convinced neighbors that the fires of hell had erupted from next-door backyard
@@ -35,11 +35,12 @@ Disadvantages
 # Second Protoype
 The second prototype comprised a propane torch with its own insulated chamber. These ideas were inspired by small commercial metal furnaces, but made more accessible with basic materials. 
 
-The insulating material of the chamber was a silicate comprising 30% clay (dug from the ground and refined via decanting) and the remainder crushed up glass bottles was used (measured by volume). This was done due to easy sourcing of the materials. A steel bucket was used to contain the insulating mixture. Standard bricks were used to cover the top when in use. The torch was made of plumbing hardware, teflon tape, and a 30 PSI regulator.
+The insulating material of the chamber was a silicate comprising 30% clay (dug from the ground and refined via decanting) and the remainder crushed up glass bottles (measured by volume). This was done due to easy sourcing of the materials. A steel bucket was used to contain the insulating mixture. Standard bricks were used to cover the top when in use. The torch was made of plumbing hardware, teflon tape, and a 30 PSI regulator. The stoichiometric ratio of propane to oxygen could be optimised by changing the distance between the torch nozzle and the inlet pipe.
 
 Advantages
 - Refinement and casting of aluminum was faster and safer
 - Insulation was much more effective and durable
+- Furnace was mobile
 
 Disadvantages
 - Torch was cumbersome to light and position
@@ -123,4 +124,4 @@ Disadvantages
 </figure>
 
 # Conclusions
-This was a very practical project that has unlocked the ability to create custom metal parts for future projects. It was ultimately cheaper than an equivalent commercial product but performs just as well. It could be improved in many ways, mainly in regards to durability and ease of use. However useful the result may be, however, it is usually more costly in the fullness of time to produce every part of a project from scratch. Nonetheless, the project taught mold casting, sand casting, forging, and metalworking.
+This was a very practical project that has unlocked the ability to create custom metal parts for future projects. It was ultimately cheaper than an equivalent commercial product but performs almost as well. It could be improved in many ways, mainly in regards to durability and ease of use. However useful the result may be, however, it is usually more costly in the fullness of time to produce every part of a project from scratch. Nonetheless, the project taught mold casting, sand casting, forging, and metalworking.
